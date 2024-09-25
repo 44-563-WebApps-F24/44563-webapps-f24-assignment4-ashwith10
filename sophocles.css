@@ -1,0 +1,45 @@
+.speech
+{
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    color: black;
+}
+.name
+{
+    font-family:'Cambria';
+    font-size: 25px;
+    color: coral;
+}
+.direction
+{
+    font-family: 'Courier New';
+    font-size: 30px;
+    color: black;
+    background-color:cyan;  
+}
+.direction:hover
+{
+    color: darkorange;
+    background-color:indigo;
+}
+.CH
+{
+color:lime;
+}
+.CLY
+{
+    color:magenta ;
+}
+.EL
+{
+    color:mediumseagreen;
+}
+.OLD M
+{
+    color:blue;
+}
+.CHR
+{
+    color:yellow;
+    
+}
