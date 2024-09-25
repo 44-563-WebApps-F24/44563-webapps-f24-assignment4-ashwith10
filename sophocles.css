@@ -59,8 +59,15 @@ th{
 tr:nth-child(odd){
     background-color:blanchedalmond;
 }
-.name:hover {
+.CHRYSOTHEMIS:hover {
     text-shadow: 2px 2px 5px rgba(0, 128, 0, 0.7);
-    border: 1px solid green;
+    border: 1px mediumaquamarine;
 }
-
+.AEGISTHUS:hover {
+    text-shadow: 2px 2px 5px rgba(0, 128, 0, 0.7);
+    border: 1px mediumaquamarine;
+}
+.PYLADES:hover {
+    text-shadow: 2px 2px 5px rgba(0, 128, 0, 0.7);
+    border: 1px mediumaquamarine;
+}
