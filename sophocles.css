@@ -22,24 +22,31 @@
     color: darkorange;
     background-color:indigo;
 }
-.CH
+.CLYTEMNESTRA
 {
 color:lime;
 }
-.CLY
+.ELECTRA
 {
     color:magenta ;
 }
-.EL
+.CHOROUS
 {
-    color:mediumseagreen;
+    color:midnightblue ;
 }
-.OLD M
-{
-    color:blue;
+table {
+    width: 100%;
+    border-collapse: collapse;
 }
-.CHR
-{
-    color:yellow;
-    
+th,td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
 }
+th{
+    background-color:aquamarine;
+}
+tr:nth-child(odd){
+    background-color:blanchedalmond;
+}
+
