@@ -34,6 +34,16 @@ color:lime;
 {
     color:midnightblue ;
 }
+.AEGISTHUS{
+    color: brown;
+}
+.CHRYSOTHEMIS{
+    color: deeppink;
+}   
+.PYLADES{
+    color: greenyellow;
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -48,5 +58,9 @@ th{
 }
 tr:nth-child(odd){
     background-color:blanchedalmond;
+}
+.name:hover {
+    text-shadow: 2px 2px 5px rgba(0, 128, 0, 0.7);
+    border: 1px solid green;
 }
 
